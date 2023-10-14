@@ -53,9 +53,9 @@
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/core-client": "7.1.0-alpha.8",
-    "@storybook/docs-tools": "7.1.0-alpha.8",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/manager-api": "7.1.0-alpha.8",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
     "ts-dedent": "^2.0.0"
