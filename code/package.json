@@ -97,7 +97,7 @@
     "@jest/globals": "^29.3.1",
     "@linear/sdk": "^1.21.0",
     "@nrwl/cli": "^15.4.5",
-    "@nrwl/nx-cloud": "^15.0.2",
+    "@nrwl/nx-cloud": "^16.0.0",
     "@nrwl/workspace": "^15.4.5",
     "@playwright/test": "1.32.3",
     "@storybook/addon-a11y": "workspace:*",
