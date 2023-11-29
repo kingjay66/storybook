@@ -75,7 +75,7 @@
     "@storybook/builder-webpack5": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/node-logger": "7.1.0-alpha.8",
-    "@storybook/preset-react-webpack": "7.1.0-alpha.8",
+    "@storybook/preset-react-webpack": "7.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/react": "7.1.0-alpha.8",
     "@types/node": "^16.0.0",
