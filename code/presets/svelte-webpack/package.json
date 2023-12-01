@@ -63,7 +63,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "7.1.0-alpha.8",
+    "@storybook/core-webpack": "7.1.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
     "sveltedoc-parser": "^4.2.1",
     "ts-dedent": "^2.0.0"
