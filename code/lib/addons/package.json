@@ -44,7 +44,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/manager-api": "7.1.0-alpha.8",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8"
   },
