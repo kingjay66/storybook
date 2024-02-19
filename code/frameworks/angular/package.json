@@ -42,7 +42,7 @@
     "@storybook/core-client": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/core-events": "7.1.0-alpha.8",
-    "@storybook/core-server": "7.1.0-alpha.8",
+    "@storybook/core-server": "6.5.6",
     "@storybook/core-webpack": "7.1.0-alpha.8",
     "@storybook/docs-tools": "7.1.0-alpha.8",
     "@storybook/global": "^5.0.0",
