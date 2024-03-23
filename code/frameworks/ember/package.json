@@ -31,9 +31,9 @@
     "prep": "../../../scripts/prepare/tsc.ts"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "7.1.0-alpha.8",
+    "@storybook/builder-webpack5": "7.0.0",
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/docs-tools": "7.1.0-alpha.8",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
