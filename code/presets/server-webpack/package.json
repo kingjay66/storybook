@@ -53,10 +53,10 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-server": "7.1.0-alpha.8",
+    "@storybook/core-server": "6.2.0",
     "@storybook/core-webpack": "7.1.0-alpha.8",
     "@storybook/global": "^5.0.0",
-    "@storybook/server": "7.1.0-alpha.8",
+    "@storybook/server": "6.0.0",
     "@types/node": "^16.0.0",
     "safe-identifier": "^0.4.1",
     "ts-dedent": "^2.0.0",
