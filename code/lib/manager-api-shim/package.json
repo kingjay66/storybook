@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.8",
-    "@storybook/manager-api": "7.1.0-alpha.8"
+    "@storybook/manager-api": "7.0.0"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
