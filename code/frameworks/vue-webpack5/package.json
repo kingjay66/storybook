@@ -50,7 +50,7 @@
   "dependencies": {
     "@storybook/builder-webpack5": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/preset-vue-webpack": "7.1.0-alpha.8",
+    "@storybook/preset-vue-webpack": "7.0.0",
     "@storybook/vue": "7.1.0-alpha.8",
     "@types/node": "^16.0.0"
   },
