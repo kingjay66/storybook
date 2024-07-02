@@ -54,7 +54,7 @@
     "@linear/sdk": "^1.22.0",
     "@nrwl/cli": "^15.4.5",
     "@nrwl/nx-cloud": "^15.0.2",
-    "@nrwl/workspace": "^15.4.5",
+    "@nrwl/workspace": "^16.0.0",
     "@storybook/eslint-config-storybook": "^3.1.2",
     "@storybook/jest": "future",
     "@storybook/linter-config": "^3.1.2",
