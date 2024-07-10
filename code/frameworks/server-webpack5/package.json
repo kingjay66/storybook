@@ -50,7 +50,7 @@
   "dependencies": {
     "@storybook/builder-webpack5": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/preset-server-webpack": "7.1.0-alpha.8",
+    "@storybook/preset-server-webpack": "8.2.0",
     "@storybook/server": "7.1.0-alpha.8",
     "@types/node": "^16.0.0"
   },
