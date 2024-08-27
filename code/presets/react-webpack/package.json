@@ -66,7 +66,7 @@
     "@babel/preset-flow": "^7.18.6",
     "@babel/preset-react": "^7.18.6",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.5",
-    "@storybook/core-webpack": "7.1.0-alpha.8",
+    "@storybook/core-webpack": "7.0.0",
     "@storybook/docs-tools": "7.1.0-alpha.8",
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/react": "7.1.0-alpha.8",
@@ -78,7 +78,7 @@
     "fs-extra": "^11.1.0",
     "react-refresh": "^0.11.0",
     "semver": "^7.3.7",
-    "webpack": "5"
+    "webpack": "5.94.0"
   },
   "devDependencies": {
     "typescript": "~4.9.3"
