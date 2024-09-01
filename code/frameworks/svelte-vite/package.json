@@ -50,10 +50,10 @@
   "dependencies": {
     "@storybook/builder-vite": "7.1.0-alpha.8",
     "@storybook/node-logger": "7.1.0-alpha.8",
-    "@storybook/svelte": "7.1.0-alpha.8",
+    "@storybook/svelte": "4.0.0",
     "@sveltejs/vite-plugin-svelte": "^2.0.0",
     "magic-string": "^0.27.0",
-    "svelte": "^3.0.0",
+    "svelte": "^4.2.19",
     "sveltedoc-parser": "^4.2.1",
     "ts-dedent": "^2.2.0"
   },
