@@ -21,7 +21,7 @@
     "@storybook/theming": "7.0.0-alpha.43",
     "formik": "^2.2.9",
     "next": "^12.1.0",
-    "nextra": "^1.1.0",
+    "nextra": "^2.0.0",
     "nextra-theme-docs": "^1.2.6",
     "prop-types": "^15.8.1",
     "react": "16.14.0",
