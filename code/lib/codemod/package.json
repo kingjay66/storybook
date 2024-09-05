@@ -45,8 +45,8 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@babel/core": "~7.21.0",
-    "@babel/preset-env": "~7.21.0",
+    "@babel/core": "~7.23.2",
+    "@babel/preset-env": "~7.23.2",
     "@babel/types": "~7.21.2",
     "@storybook/csf": "^0.1.0",
     "@storybook/csf-tools": "7.1.0-alpha.8",
@@ -54,7 +54,7 @@
     "@storybook/types": "7.1.0-alpha.8",
     "cross-spawn": "^7.0.3",
     "globby": "^11.0.2",
-    "jscodeshift": "^0.14.0",
+    "jscodeshift": "^0.16.0",
     "lodash": "^4.17.21",
     "prettier": "^2.8.0",
     "recast": "^0.23.1"
