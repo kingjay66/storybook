@@ -68,7 +68,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/blocks": "7.1.0-alpha.8",
+    "@storybook/blocks": "8.2.0",
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/components": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
