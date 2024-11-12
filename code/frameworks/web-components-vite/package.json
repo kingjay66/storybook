@@ -49,9 +49,9 @@
   },
   "dependencies": {
     "@storybook/builder-vite": "7.1.0-alpha.8",
-    "@storybook/core-server": "7.1.0-alpha.8",
+    "@storybook/core-server": "6.2.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
-    "@storybook/web-components": "7.1.0-alpha.8",
+    "@storybook/web-components": "5.3.0",
     "magic-string": "^0.27.0"
   },
   "devDependencies": {
