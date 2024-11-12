@@ -109,7 +109,7 @@
     "@storybook/global": "^5.0.0",
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
-    "@storybook/postinstall": "7.1.0-alpha.8",
+    "@storybook/postinstall": "5.3.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/react-dom-shim": "7.1.0-alpha.8",
     "@storybook/theming": "7.1.0-alpha.8",
