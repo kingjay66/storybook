@@ -174,7 +174,7 @@
     "@storybook/preview-api": "workspace:*",
     "@storybook/preview-web": "workspace:*",
     "@storybook/react": "workspace:*",
-    "@storybook/react-vite": "workspace:*",
+    "@storybook/react-vite": "8.4.6",
     "@storybook/react-webpack5": "workspace:*",
     "@storybook/router": "workspace:*",
     "@storybook/server": "workspace:*",
