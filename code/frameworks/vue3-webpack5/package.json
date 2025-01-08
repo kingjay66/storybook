@@ -51,7 +51,7 @@
     "@storybook/builder-webpack5": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/preset-vue3-webpack": "7.1.0-alpha.8",
-    "@storybook/vue3": "7.1.0-alpha.8",
+    "@storybook/vue3": "6.2.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
