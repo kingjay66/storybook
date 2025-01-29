@@ -52,7 +52,7 @@
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/global": "^5.0.0",
     "@storybook/html": "7.1.0-alpha.8",
-    "@storybook/preset-html-webpack": "7.1.0-alpha.8",
+    "@storybook/preset-html-webpack": "7.0.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
