@@ -85,7 +85,7 @@
     "image-size": "^1.0.0",
     "loader-utils": "^3.2.0",
     "pnp-webpack-plugin": "^1.7.0",
-    "postcss": "^8.4.21",
+    "postcss": "^8.5.0",
     "postcss-loader": "^7.0.2",
     "resolve-url-loader": "^5.0.0",
     "sass-loader": "^12.4.0",
