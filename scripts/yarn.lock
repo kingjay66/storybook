@@ -1720,14 +1720,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@hapi/hoek@npm:^9.0.0":
+"@hapi/hoek@npm:^9.0.0, @hapi/hoek@npm:^9.3.0":
   version: 9.3.0
   resolution: "@hapi/hoek@npm:9.3.0"
   checksum: a096063805051fb8bba4c947e293c664b05a32b47e13bc654c0dd43813a1cec993bdd8f29ceb838020299e1d0f89f68dc0d62a603c13c9cc8541963f0beca055
   languageName: node
   linkType: hard
 
-"@hapi/topo@npm:^5.0.0":
+"@hapi/topo@npm:^5.1.0":
   version: 5.1.0
   resolution: "@hapi/topo@npm:5.1.0"
   dependencies:
@@ -2678,12 +2678,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sideway/address@npm:^4.1.3":
-  version: 4.1.4
-  resolution: "@sideway/address@npm:4.1.4"
+"@sideway/address@npm:^4.1.5":
+  version: 4.1.5
+  resolution: "@sideway/address@npm:4.1.5"
   dependencies:
     "@hapi/hoek": ^9.0.0
-  checksum: c6fad7d87fb016053e9e9b69c2f2d1f23036d5f1696df141e64c3c58bcf8c7d2a4133348adc2d246682410364d5922c6271ae556122741025794fb7c19814aae
+  checksum: 8/3e3ea0f00b4765d86509282290368a4a5fd39a7995fdc6de42116ca19a96120858e56c2c995081def06e1c53e1f8bccc7d013f6326602bec9d56b72ee2772b9d
   languageName: node
   linkType: hard
 
@@ -2973,7 +2973,7 @@ __metadata:
     eslint-plugin-storybook: ^0.6.6
     execa: ^6.1.0
     express: ^4.17.3
-    fast-glob: ^3.2.12
+    fast-glob: ^3.3.3
     find-up: ^5.0.0
     fs-extra: ^10.1.0
     github-release-from-changelog: ^2.1.1
@@ -3024,7 +3024,7 @@ __metadata:
     util: ^0.12.4
     verdaccio: ^5.19.1
     verdaccio-auth-memory: ^10.2.0
-    wait-on: ^5.2.1
+    wait-on: ^8.0.2
     window-size: ^1.1.1
     zx: ^7.0.3
   dependenciesMeta:
@@ -4743,15 +4743,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.21.1":
-  version: 0.21.4
-  resolution: "axios@npm:0.21.4"
-  dependencies:
-    follow-redirects: ^1.14.0
-  checksum: fbcff55ec68f71f02d3773d467db2fcecdf04e749826c82c2427a232f9eba63242150a05f15af9ef15818352b814257541155de0281f8fb2b7e8a5b79f7f2142
-  languageName: node
-  linkType: hard
-
 "axios@npm:^1.0.0":
   version: 1.3.4
   resolution: "axios@npm:1.3.4"
@@ -4760,6 +4751,17 @@ __metadata:
     form-data: ^4.0.0
     proxy-from-env: ^1.1.0
   checksum: 39f03d83a9ed5760094f92a677af2533ab159448c8e22bfba98d8957bdef2babe142e117a0a7d9a5aff1d5f28f8ced28eb0471b6a91d33410375c89e49032193
+  languageName: node
+  linkType: hard
+
+"axios@npm:^1.7.9":
+  version: 1.7.9
+  resolution: "axios@npm:1.7.9"
+  dependencies:
+    follow-redirects: ^1.15.6
+    form-data: ^4.0.0
+    proxy-from-env: ^1.1.0
+  checksum: 8/cb8ce291818effda09240cb60f114d5625909b345e10f389a945320e06acf0bc949d0f8422d25720f5dd421362abee302c99f5e97edec4c156c8939814b23d19
   languageName: node
   linkType: hard
 
@@ -5078,6 +5080,15 @@ __metadata:
   dependencies:
     fill-range: ^7.0.1
   checksum: 321b4d675791479293264019156ca322163f02dc06e3c4cab33bb15cd43d80b51efef69b0930cfde3acd63d126ebca24cd0544fa6f261e093a0fb41ab9dda381
+  languageName: node
+  linkType: hard
+
+"braces@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "braces@npm:3.0.3"
+  dependencies:
+    fill-range: ^7.1.1
+  checksum: 8/b95aa0b3bd909f6cd1720ffcf031aeaf46154dd88b4da01f9a1d3f7ea866a79eba76a6d01cbc3c422b2ee5cdc39a4f02491058d5df0d7bf6e6a162a832df1f69
   languageName: node
   linkType: hard
 
@@ -7530,7 +7541,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-glob@npm:^3.0.3, fast-glob@npm:^3.2.11, fast-glob@npm:^3.2.12, fast-glob@npm:^3.2.9":
+"fast-glob@npm:^3.0.3, fast-glob@npm:^3.2.11, fast-glob@npm:^3.2.9":
   version: 3.2.12
   resolution: "fast-glob@npm:3.2.12"
   dependencies:
@@ -7540,6 +7551,19 @@ __metadata:
     merge2: ^1.3.0
     micromatch: ^4.0.4
   checksum: 08604fb8ef6442ce74068bef3c3104382bb1f5ab28cf75e4ee904662778b60ad620e1405e692b7edea598ef445f5d387827a965ba034e1892bf54b1dfde97f26
+  languageName: node
+  linkType: hard
+
+"fast-glob@npm:^3.3.3":
+  version: 3.3.3
+  resolution: "fast-glob@npm:3.3.3"
+  dependencies:
+    "@nodelib/fs.stat": ^2.0.2
+    "@nodelib/fs.walk": ^1.2.3
+    glob-parent: ^5.1.2
+    merge2: ^1.3.0
+    micromatch: ^4.0.8
+  checksum: 8/0704d7b85c0305fd2cef37777337dfa26230fdd072dce9fb5c82a4b03156f3ffb8ed3e636033e65d45d2a5805a4e475825369a27404c0307f2db0c8eb3366fbd
   languageName: node
   linkType: hard
 
@@ -7668,6 +7692,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fill-range@npm:^7.1.1":
+  version: 7.1.1
+  resolution: "fill-range@npm:7.1.1"
+  dependencies:
+    to-regex-range: ^5.0.1
+  checksum: 8/b4abfbca3839a3d55e4ae5ec62e131e2e356bf4859ce8480c64c4876100f4df292a63e5bb1618e1d7460282ca2b305653064f01654474aa35c68000980f17798
+  languageName: node
+  linkType: hard
+
 "filter-obj@npm:^1.1.0":
   version: 1.1.0
   resolution: "filter-obj@npm:1.1.0"
@@ -7765,13 +7798,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.14.0, follow-redirects@npm:^1.15.0":
+"follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.15.0":
   version: 1.15.2
   resolution: "follow-redirects@npm:1.15.2"
   peerDependenciesMeta:
     debug:
       optional: true
   checksum: da5932b70e63944d38eecaa16954bac4347036f08303c913d166eda74809d8797d38386e3a0eb1d2fe37d2aaff2764cce8e9dbd99459d860cf2cdfa237923b5f
+  languageName: node
+  linkType: hard
+
+"follow-redirects@npm:^1.15.6":
+  version: 1.15.9
+  resolution: "follow-redirects@npm:1.15.9"
+  peerDependenciesMeta:
+    debug:
+      optional: true
+  checksum: 8/859e2bacc7a54506f2bf9aacb10d165df78c8c1b0ceb8023f966621b233717dab56e8d08baadc3ad3b9db58af290413d585c999694b7c146aaf2616340c3d2a6
   languageName: node
   linkType: hard
 
@@ -10013,16 +10056,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"joi@npm:^17.3.0":
-  version: 17.9.1
-  resolution: "joi@npm:17.9.1"
+"joi@npm:^17.13.3":
+  version: 17.13.3
+  resolution: "joi@npm:17.13.3"
   dependencies:
-    "@hapi/hoek": ^9.0.0
-    "@hapi/topo": ^5.0.0
-    "@sideway/address": ^4.1.3
+    "@hapi/hoek": ^9.3.0
+    "@hapi/topo": ^5.1.0
+    "@sideway/address": ^4.1.5
     "@sideway/formula": ^3.0.1
     "@sideway/pinpoint": ^2.0.0
-  checksum: 27bae524494f42db55a5a5e5e794c2616ad3524695af8f92f6c122dd5e65b12f2c0b76960cf0f1da7b01e5eb06d4b0579f96edf6b4df890c3fd6517f43dee6be
+  checksum: 8/66ed454fee3d8e8da1ce21657fd2c7d565d98f3e539d2c5c028767e5f38cbd6297ce54df8312d1d094e62eb38f9452ebb43da4ce87321df66cf5e3f128cbc400
   languageName: node
   linkType: hard
 
@@ -11028,6 +11071,16 @@ __metadata:
     braces: ^3.0.2
     picomatch: ^2.3.1
   checksum: 3d6505b20f9fa804af5d8c596cb1c5e475b9b0cd05f652c5b56141cf941bd72adaeb7a436fda344235cef93a7f29b7472efc779fcdb83b478eab0867b95cdeff
+  languageName: node
+  linkType: hard
+
+"micromatch@npm:^4.0.8":
+  version: 4.0.8
+  resolution: "micromatch@npm:4.0.8"
+  dependencies:
+    braces: ^3.0.3
+    picomatch: ^2.3.1
+  checksum: 8/79920eb634e6f400b464a954fcfa589c4e7c7143209488e44baf627f9affc8b1e306f41f4f0deedde97e69cb725920879462d3e750ab3bd3c1aed675bb3a8966
   languageName: node
   linkType: hard
 
@@ -13514,15 +13567,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^6.6.3":
-  version: 6.6.7
-  resolution: "rxjs@npm:6.6.7"
-  dependencies:
-    tslib: ^1.9.0
-  checksum: e556a13a9aa89395e5c9d825eabcfa325568d9c9990af720f3f29f04a888a3b854f25845c2b55875d875381abcae2d8100af9cacdc57576e7ed6be030a01d2fe
-  languageName: node
-  linkType: hard
-
 "rxjs@npm:^7.5.1":
   version: 7.8.0
   resolution: "rxjs@npm:7.8.0"
@@ -13532,7 +13576,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^7.8.0":
+"rxjs@npm:^7.8.0, rxjs@npm:^7.8.1":
   version: 7.8.1
   resolution: "rxjs@npm:7.8.1"
   dependencies:
@@ -14825,7 +14869,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^1.8.1, tslib@npm:^1.9.0":
+"tslib@npm:^1.8.1":
   version: 1.14.1
   resolution: "tslib@npm:1.14.1"
   checksum: 69ae09c49eea644bc5ebe1bca4fa4cc2c82b7b3e02f43b84bd891504edf66dbc6b2ec0eef31a957042de2269139e4acff911e6d186a258fb14069cd7f6febce2
@@ -15703,18 +15747,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wait-on@npm:^5.2.1":
-  version: 5.3.0
-  resolution: "wait-on@npm:5.3.0"
+"wait-on@npm:^8.0.2":
+  version: 8.0.2
+  resolution: "wait-on@npm:8.0.2"
   dependencies:
-    axios: ^0.21.1
-    joi: ^17.3.0
+    axios: ^1.7.9
+    joi: ^17.13.3
     lodash: ^4.17.21
-    minimist: ^1.2.5
-    rxjs: ^6.6.3
+    minimist: ^1.2.8
+    rxjs: ^7.8.1
   bin:
     wait-on: bin/wait-on
-  checksum: 5ca740e3f2cf4f73ebd2787ff15f7b8d0ee99f188dd37aae0a7d116ae9837f04b8752e4306218aee5165ca4e37cfd3c5b114627748e465e46f8cd51af0da1790
+  checksum: 8/3b6388f991faec8d5226f7a1c0dbcf9852f536632f987dd65f27e7a070d03bfc67f051a4d208009e6dbbdb095a6f9109394c2dc88fec191a798983e0c8469471
   languageName: node
   linkType: hard
 
