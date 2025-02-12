@@ -53,7 +53,7 @@
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
     "cross-spawn": "^7.0.3",
-    "globby": "^11.0.2",
+    "globby": "^14.1.0",
     "jscodeshift": "^17.1.0",
     "lodash": "^4.17.21",
     "prettier": "^2.8.0",
