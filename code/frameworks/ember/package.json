@@ -33,7 +33,7 @@
   "dependencies": {
     "@storybook/builder-webpack5": "6.2.0",
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/docs-tools": "7.1.0-alpha.8",
+    "@storybook/docs-tools": "7.1.0",
     "@storybook/global": "^5.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
