@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/preview-api": "7.1.0-alpha.8",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "7.1.0-alpha.8",
     "@types/doctrine": "^0.0.3",
     "doctrine": "^3.0.0",
