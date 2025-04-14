@@ -55,7 +55,7 @@
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/core-client": "7.1.0-alpha.8",
-    "@storybook/docs-tools": "7.1.0-alpha.8",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/react-dom-shim": "7.1.0-alpha.8",
