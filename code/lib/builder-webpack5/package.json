@@ -68,7 +68,7 @@
     "@storybook/components": "7.1.0-alpha.8",
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/core-events": "7.1.0-alpha.8",
-    "@storybook/core-webpack": "7.1.0-alpha.8",
+    "@storybook/core-webpack": "7.0.0",
     "@storybook/global": "^5.0.0",
     "@storybook/manager-api": "7.1.0-alpha.8",
     "@storybook/node-logger": "7.1.0-alpha.8",
@@ -96,7 +96,7 @@
     "ts-dedent": "^2.0.0",
     "util": "^0.12.4",
     "util-deprecate": "^1.0.2",
-    "webpack": "5",
+    "webpack": "5.94.0",
     "webpack-dev-middleware": "^5.3.1",
     "webpack-hot-middleware": "^2.25.1",
     "webpack-virtual-modules": "^0.4.3"
