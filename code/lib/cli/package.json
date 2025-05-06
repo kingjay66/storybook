@@ -55,9 +55,9 @@
   },
   "dependencies": {
     "@babel/core": "^7.20.2",
-    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-env": "^7.27.1",
     "@ndelangen/get-tarball": "^3.0.7",
-    "@storybook/codemod": "7.1.0-alpha.8",
+    "@storybook/codemod": "3.0.0",
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/core-server": "6.2.0",
     "@storybook/csf-tools": "7.1.0-alpha.8",
