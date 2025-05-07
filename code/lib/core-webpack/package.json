@@ -43,7 +43,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-common": "7.1.0-alpha.8",
+    "@storybook/core-common": "7.1.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
     "@types/node": "^16.0.0",
