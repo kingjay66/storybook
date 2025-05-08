@@ -51,7 +51,7 @@
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/csf": "^0.1.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/theming": "7.1.0-alpha.8",
+    "@storybook/theming": "6.5.0",
     "@storybook/types": "7.1.0-alpha.8",
     "memoizerific": "^1.11.3",
     "use-resize-observer": "^9.1.0",
