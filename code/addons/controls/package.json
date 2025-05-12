@@ -70,12 +70,12 @@
   "dependencies": {
     "@storybook/blocks": "8.2.0",
     "@storybook/client-logger": "7.1.0-alpha.8",
-    "@storybook/components": "7.1.0-alpha.8",
+    "@storybook/components": "3.1.3",
     "@storybook/core-common": "7.1.0-alpha.8",
-    "@storybook/manager-api": "7.1.0-alpha.8",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/preview-api": "7.1.0-alpha.8",
-    "@storybook/theming": "7.1.0-alpha.8",
+    "@storybook/theming": "6.5.0",
     "@storybook/types": "7.1.0-alpha.8",
     "lodash": "^4.17.21",
     "ts-dedent": "^2.0.0"
