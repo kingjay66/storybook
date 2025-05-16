@@ -39,7 +39,7 @@
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
     "@types/jest-image-snapshot": "^5.1.0",
-    "jest-image-snapshot": "^6.0.0"
+    "jest-image-snapshot": "^6.5.0"
   },
   "devDependencies": {
     "@types/puppeteer": "^5.4.0",
