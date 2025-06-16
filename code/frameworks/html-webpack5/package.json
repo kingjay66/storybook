@@ -49,9 +49,9 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "6.2.0",
-    "@storybook/core-common": "7.1.0-alpha.8",
+    "@storybook/core-common": "8.2.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/html": "7.1.0-alpha.8",
+    "@storybook/html": "4.0.0",
     "@storybook/preset-html-webpack": "7.0.0",
     "@types/node": "^16.0.0"
   },
