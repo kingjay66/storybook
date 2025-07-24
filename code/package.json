@@ -190,7 +190,7 @@
     "@storybook/vue": "workspace:*",
     "@storybook/vue-webpack5": "workspace:*",
     "@storybook/vue3": "workspace:*",
-    "@storybook/vue3-vite": "workspace:*",
+    "@storybook/vue3-vite": "7.0.0",
     "@storybook/vue3-webpack5": "workspace:*",
     "@storybook/web-components": "5.3.0",
     "@storybook/web-components-vite": "8.2.0",
