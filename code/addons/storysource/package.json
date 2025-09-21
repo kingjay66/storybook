@@ -56,10 +56,10 @@
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/components": "7.1.0-alpha.8",
-    "@storybook/manager-api": "7.1.0-alpha.8",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/preview-api": "7.1.0-alpha.8",
     "@storybook/router": "7.1.0-alpha.8",
-    "@storybook/source-loader": "7.1.0-alpha.8",
+    "@storybook/source-loader": "5.2.0",
     "@storybook/theming": "7.1.0-alpha.8",
     "estraverse": "^5.2.0",
     "prop-types": "^15.7.2",
