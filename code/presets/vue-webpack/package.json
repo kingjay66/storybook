@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@storybook/core-webpack": "7.1.0-alpha.8",
-    "@storybook/docs-tools": "7.1.0-alpha.8",
+    "@storybook/docs-tools": "6.5.0",
     "@types/node": "^16.0.0",
     "ts-loader": "^9.2.8",
     "vue-docgen-api": "^4.44.23",
