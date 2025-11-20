@@ -43,7 +43,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/csf-tools": "7.1.0-alpha.8",
+    "@storybook/csf-tools": "6.3.0",
     "unplugin": "^0.10.2"
   },
   "devDependencies": {
