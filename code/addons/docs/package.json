@@ -110,7 +110,7 @@
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "7.1.0-alpha.8",
     "@storybook/postinstall": "7.1.0-alpha.8",
-    "@storybook/preview-api": "7.1.0-alpha.8",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/react-dom-shim": "7.1.0-alpha.8",
     "@storybook/theming": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
