@@ -63,7 +63,7 @@
   "dependencies": {
     "@storybook/core-events": "7.1.0-alpha.8",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "7.1.0-alpha.8"
+    "@storybook/preview-api": "7.0.0"
   },
   "devDependencies": {
     "@types/webpack-env": "^1.16.0",
