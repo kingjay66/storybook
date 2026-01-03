@@ -67,7 +67,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/channel-postmessage": "7.1.0-alpha.8",
+    "@storybook/channel-postmessage": "3.0.0",
     "@storybook/channels": "7.1.0-alpha.8",
     "@storybook/client-logger": "7.1.0-alpha.8",
     "@storybook/core-events": "7.1.0-alpha.8",
@@ -78,7 +78,7 @@
     "dequal": "^2.0.2",
     "lodash": "^4.17.21",
     "memoizerific": "^1.11.3",
-    "qs": "^6.10.0",
+    "qs": "^6.14.1",
     "synchronous-promise": "^2.0.15",
     "ts-dedent": "^2.0.0",
     "util-deprecate": "^1.0.2"
