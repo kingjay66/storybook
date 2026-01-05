@@ -74,7 +74,7 @@
     "@storybook/core-common": "7.1.0-alpha.8",
     "@storybook/manager-api": "7.1.0-alpha.8",
     "@storybook/node-logger": "7.1.0-alpha.8",
-    "@storybook/preview-api": "7.1.0-alpha.8",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/theming": "7.1.0-alpha.8",
     "@storybook/types": "7.1.0-alpha.8",
     "lodash": "^4.17.21",
