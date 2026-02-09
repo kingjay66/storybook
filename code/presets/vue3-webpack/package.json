@@ -65,7 +65,7 @@
     "vue-docgen-api": "^4.46.0",
     "vue-docgen-loader": "^1.5.1",
     "vue-loader": "^16.0.0",
-    "webpack": "5"
+    "webpack": "5.104.1"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.2.33",
