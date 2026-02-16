@@ -50,7 +50,7 @@
   "dependencies": {
     "@storybook/client-logger": "7.1.0-alpha.8",
     "memoizerific": "^1.11.3",
-    "qs": "^6.10.0"
+    "qs": "^6.14.2"
   },
   "devDependencies": {
     "@storybook/global": "^5.0.0",
